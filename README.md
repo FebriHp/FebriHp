@@ -47,11 +47,8 @@
 <p align="center">
   <i>All automation scripts are purely passive recon, ensuring 100% server-friendly operations to assist with vulnerability discovery and security analysis.</i>
 </p>
----
 
-<p align="center">
-  <i>All automation scripts are purely passive recon, ensuring 100% server-friendly operations to assist with vulnerability discovery and security analysis.</i>
-</p>
+---
 
 <p align="center">
   <strong>Ask • Learn • Innovate</strong>
