@@ -1,6 +1,6 @@
+<p align="center">
 <img src="https://tryhackme-badges.s3.amazonaws.com/Faxcel.png" alt="Your Image Badge" />
-
-
+</p>
 ---
 
 <h2 align="center">🛡️ Cybersecurity Enthusiast | 🕷️ Bug Hunting</h2>
